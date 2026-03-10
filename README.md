@@ -1,6 +1,8 @@
 Midterm exam
 
 Should output a tab-delimited table of all sequences with length >= 10 bp, showing the correct sequence ID, full sequence length, and GC content (%).
+
+
 Tasks:
 
 (A) Fork the repository to your own GitHub account and clone it to your local machine (or Pronghorn). Show the exact commands you used. (3 points)
